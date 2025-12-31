@@ -1,0 +1,3 @@
+data/raw/*.pkl
+data/processed/*.csv
+.DS_Store

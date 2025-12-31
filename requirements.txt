@@ -1,0 +1,38 @@
+# Data collection & processing
+yfinance>=0.2.40
+pandas>=2.1.4
+numpy==1.26.2
+scipy==1.11.4
+
+# API clients
+finnhub-python==2.4.19
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Data storage
+tables==3.9.2
+pyarrow==14.0.1
+
+# Analysis & visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+# Statistics
+statsmodels==0.14.1
+scikit-learn==1.3.2
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+
+# Testing
+pytest==7.4.3
+
+jupyter>=1.0.0
+
+lxml>=4.9.0
+
+html5lib>=1.1
+
+
