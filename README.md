@@ -6,11 +6,12 @@ Implementation of enhanced earnings prediction methodology based on Herzberg, Gu
 
 epm-project/
 ├── data/
-│ ├── raw/ # Raw collected data
-│ └── processed/ # Processed features
-├── notebooks/ # Jupyter notebooks for analysis
+│ ├── raw/ # Raw earnings & pricing data (not versioned)
+│ └── processed/ # Engineered features, predictions, backtests
+├── notebooks/ # Research & analysis notebooks
 ├── src/
-│ ├── data/ # Data collection modules
-│ ├── features/ # Feature engineering
-│ └── models/ # EPM model implementation
-└── scripts/ # Standalone execution scripts
+│ ├── data/ # Data collection & I/O
+│ ├── features/ # Feature engineering pipeline
+│ └── models/ # EPM model, backtest, optimizers
+└── scripts/ # CLI scripts (full pipeline, plots, debugging)
+undefined
