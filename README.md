@@ -2,8 +2,7 @@
 
 Implementation of enhanced earnings prediction methodology based on Herzberg, Guo, Brown (1999).
 
-## Project Structure
-'''text
+```text
 .
 ├── data
 │   ├── processed
